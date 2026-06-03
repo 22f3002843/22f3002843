@@ -65,7 +65,7 @@ I am passionate about transforming raw data into actionable business insights th
 
 ## 📜 Certifications
 
-* **[Microsoft Certified: Power BI Data Analyst Associate]([https://coursera.org/share/e9120727d1dde38fa7241bce289bd72e](https://www.coursera.org/account/accomplishments/specialization/certificate/2EXMW1D93VT1))**  
+* **[Microsoft Certified: Power BI Data Analyst Associate](https://www.coursera.org/account/accomplishments/specialization/certificate/2EXMW1D93VT1)**  
   Developed proficiency in data preparation, cleaning, modeling, and interactive visualization using Power BI. Designed business dashboards with DAX to transform complex operational data into actionable insights for decision-making.
 
 * **[AWS Academy Graduate: Cloud Foundations](https://drive.google.com/file/d/1J5ZPGe1TsfKUnA4vwq2iv5m3pSQN-C3e/view?usp=sharing)**  
