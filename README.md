@@ -68,6 +68,9 @@ I am passionate about transforming raw data into actionable business insights th
 * **[Microsoft Certified: Power BI Data Analyst Associate](https://www.coursera.org/account/accomplishments/specialization/certificate/2EXMW1D93VT1)**  
   Developed proficiency in data preparation, cleaning, modeling, and interactive visualization using Power BI. Designed business dashboards with DAX to transform complex operational data into actionable insights for decision-making.
 
+* **[Data Analyst: Job Simulation](https://www.oneroadmap.io/verify/ORA-DA-1M7A9X)**  
+  Completed an end-to-end e-commerce analytics simulation, building a data cleaning and auditing pipeline in Python, SQL, and Excel to validate transaction records. Evaluated regional sales momentum and channel unit economics (AOV, MoM growth), synthesizing analytical findings into executive memos for strategic decision-making.
+
 * **[AWS Academy Graduate: Cloud Foundations](https://drive.google.com/file/d/1J5ZPGe1TsfKUnA4vwq2iv5m3pSQN-C3e/view?usp=sharing)**  
   Gained a foundational understanding of cloud computing concepts, AWS core services, security, architecture, pricing, and support. Explored hands-on configurations of virtual servers, databases, and network environments.
 
